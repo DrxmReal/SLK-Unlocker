@@ -1,23 +1,33 @@
 <div align="center">
 
-# 🎮 SLK Unlocker
+  <a href="https://github.com/DrxmReal/SLK-Unlocker">
+    <img src="assets/logo.png" alt="SLK Unlocker Logo" width="160" />
+  </a>
 
-**Trình quản lý & Tối ưu hóa Steam Toàn diện — Tích hợp Steam Millennium Plugin, DropZone Widget & Cloud Game Manager**
+  # SLK Unlocker
 
-[![Release](https://img.shields.io/github/v/release/DrxmReal/SLK-Unlocker?style=for-the-badge&color=007acc)](https://github.com/DrxmReal/SLK-Unlocker/releases/latest)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/DrxmReal/SLK-Unlocker/releases)
-[![Version](https://img.shields.io/badge/Version-v4.0.0.1-10b981?style=for-the-badge)](https://github.com/DrxmReal/SLK-Unlocker/releases/tag/v4.0.0.1)
+  **Trình quản lý & Tối ưu hóa Steam Toàn diện — Tích hợp Steam Millennium Plugin, DropZone Widget & Cloud Game Manager**
 
-[Tải về bản mới nhất](https://github.com/DrxmReal/SLK-Unlocker/releases/latest) • [Cộng đồng Discord](https://discord.com/channels/1397178650842894356/1493181721447895102/1515601152446562475) • [Báo lỗi / Góp ý](https://github.com/DrxmReal/SLK-Unlocker/issues)
+  <p>
+    <a href="https://github.com/DrxmReal/SLK-Unlocker/releases/latest"><img src="https://img.shields.io/github/v/release/DrxmReal/SLK-Unlocker?style=for-the-badge&color=007acc" alt="Release" /></a>
+    <a href="https://github.com/DrxmReal/SLK-Unlocker/releases"><img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows" alt="Platform" /></a>
+    <a href="https://github.com/DrxmReal/SLK-Unlocker/releases/tag/v4.0.0.1"><img src="https://img.shields.io/badge/Version-v4.0.0.1-10b981?style=for-the-badge" alt="Version" /></a>
+  </p>
 
----
+  <p>
+    <a href="https://github.com/DrxmReal/SLK-Unlocker/releases/latest"><b>Tải về bản mới nhất</b></a> • 
+    <a href="https://discord.com/channels/1397178650842894356/1493181721447895102/1515601152446562475"><b>Cộng đồng Discord</b></a> • 
+    <a href="https://github.com/DrxmReal/SLK-Unlocker/issues"><b>Báo lỗi / Góp ý</b></a>
+  </p>
+
+  ---
 
 </div>
 
 ## 🚀 Giới thiệu (Overview)
 
 **SLK Unlocker** là bộ công cụ tối ưu trải nghiệm Steam hiện đại nhất dành cho game thủ:
-- **Tích hợp sâu vào Steam Client** thông qua Millennium Plugin v4.0.0.
+- **Tích hợp sâu vào Steam Client** thông qua Millennium Plugin v4.0.0.1.
 - **DropZone Widget** hỗ trợ kéo thả game và file cài đặt trực tiếp, xử lý tự động trong nháy mắt.
 - **Quản lý & Đồng bộ Game thông minh**: Tự động nhận diện, tải metadata, quản lý file manifest ACF chuẩn xác mà không gặp lỗi rỗng thư mục hay sai trạng thái tải.
 - **Hệ thống Auto Login**: Ghi nhớ phiên làm việc, tự động đăng nhập khi khởi động Steam.
@@ -26,7 +36,7 @@
 
 ## ✨ Tính năng nổi bật (Key Features)
 
-### 🧩 1. Steam Plugin v4.0.0 (Millennium Integration)
+### 🧩 1. Steam Plugin v4.0.0.1 (Millennium Integration)
 - **Settings Panel**: Quản lý bản quyền, tuỳ chọn Auto Login, ẩn/hiện mã kích hoạt trực tiếp trong Steam.
 - **Auto-Update Plugin**: Tự động kiểm tra phiên bản plugin, cập nhật mượt mà không lo bị kẹt file khi Steam đang chạy.
 - **Giao diện hiện đại**: Thiết kế hòa nhập tự nhiên với UI của Steam Client mới nhất.
@@ -70,5 +80,5 @@ Tải phiên bản phù hợp với nhu cầu của bạn từ [GitHub Releases]
 ---
 
 <div align="center">
-<sub>Phát triển & Duy trì bởi DrxmReal. Bản quyền thuộc về SLK Team.</sub>
+  <sub>Phát triển & Duy trì bởi DrxmReal. Bản quyền thuộc về SLK Team.</sub>
 </div>
