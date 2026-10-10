@@ -6,7 +6,7 @@
 
 [![Release](https://img.shields.io/github/v/release/DrxmReal/SLK-Unlocker?style=for-the-badge&color=007acc)](https://github.com/DrxmReal/SLK-Unlocker/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=for-the-badge&logo=windows)](https://github.com/DrxmReal/SLK-Unlocker/releases)
-[![Version](https://img.shields.io/badge/Version-v4.0.0-10b981?style=for-the-badge)](https://github.com/DrxmReal/SLK-Unlocker/releases/tag/v4.0.0)
+[![Version](https://img.shields.io/badge/Version-v4.0.0.1-10b981?style=for-the-badge)](https://github.com/DrxmReal/SLK-Unlocker/releases/tag/v4.0.0.1)
 
 [Tải về bản mới nhất](https://github.com/DrxmReal/SLK-Unlocker/releases/latest) • [Cộng đồng Discord](https://discord.com/channels/1397178650842894356/1493181721447895102/1515601152446562475) • [Báo lỗi / Góp ý](https://github.com/DrxmReal/SLK-Unlocker/issues)
 
@@ -48,9 +48,9 @@ Tải phiên bản phù hợp với nhu cầu của bạn từ [GitHub Releases]
 
 | Gói cài đặt | Mô tả | Định dạng | Tải về |
 | :--- | :--- | :---: | :---: |
-| **SLK Unlocker Setup** | Bản cài đặt đầy đủ (Khuyên dùng) | `.exe` | [Tải Setup (NSIS)](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0/SLK.Unlocker_4.0.0_x64-setup.exe) |
-| **SLK Unlocker Portable** | Bản chạy ngay không cần cài đặt | `.exe` | [Tải Portable](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0/SLK.Unlocker_4.0.0_portable.exe) |
-| **SLK Unlocker MSI** | Gói cài đặt chuẩn Windows Installer | `.msi` | [Tải MSI](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0/SLK.Unlocker_4.0.0_x64_en-US.msi) |
+| **SLK Unlocker Setup** | Bản cài đặt đầy đủ (Khuyên dùng) | `.exe` | [Tải Setup (NSIS)](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0.1/SLK.Unlocker_4.0.0.1_x64-setup.exe) |
+| **SLK Unlocker Portable** | Bản chạy ngay không cần cài đặt | `.exe` | [Tải Portable](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0.1/SLK.Unlocker_4.0.0.1_portable.exe) |
+| **SLK Unlocker MSI** | Gói cài đặt chuẩn Windows Installer | `.msi` | [Tải MSI](https://github.com/DrxmReal/SLK-Unlocker/releases/download/v4.0.0.1/SLK.Unlocker_4.0.0.1_x64_en-US.msi) |
 
 ---
 
